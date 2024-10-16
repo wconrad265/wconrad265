@@ -1,6 +1,6 @@
 # Hi there, I'm Will Conrad
 
-💻 Hi, I'm Will. I'm a software engineer based out of Texas🤠. Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. 
+💻 Hi, I'm Will. I'm a software engineer based out of Texas🤠.
 
 ### 🧠 Cerebellum Realtime
 
