@@ -27,7 +27,7 @@
 
 ### 📫 How to Reach Me
 
-🚀 I'm looking for my next opportunity. If you'd like to collaborate 👯, please reach out! 
+🚀 I'm looking for my next opportunity. If you'd like to collaborate, please reach out! 
 <div>
   <a href=https://www.linkedin.com/in/willhconrad/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
