@@ -1,4 +1,4 @@
-# Hi there, I'm Will Conrad
+# Hi there, I'm Will 
 
 💻 Hi, I'm Will. I'm a software engineer based out of Texas🤠.
 
@@ -27,7 +27,7 @@
 
 ### 📫 How to Reach Me
 
-🚀 I'm looking for my next opportunity. If you'd like to collaborate, please reach out! 
+🚀 I'm currently a software engineer at firefly drone shows, writing software to help bring drone shows to life! If you would like to reach out, you can reach out to me below.
 <div>
   <a href=https://www.linkedin.com/in/willhconrad/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
